@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "ergoogbs_tech",
+    "password": "Runet123!",
+    "database": "ergoogbs_tech",
+    "host": "62.113.111.5",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "ergoogbs_tech",
+    "password": "Runet123!",
+    "database": "ergoogbs_tech",
+    "host": "62.113.111.5",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "ergoogbs_tech",
+    "password": "Runet123!",
+    "database": "ergoogbs_tech",
+    "host": "62.113.111.5",
+    "dialect": "mysql"
+  }
+}
